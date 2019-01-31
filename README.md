@@ -6,4 +6,4 @@ This is a fun problem. The main requirement is to write a code in whatever langu
 
 The problem is stated in Project269.jpg.
 
-Since one should not public the solution, I just put it here to say that I can do the problem by using python.
+Since one should not public the solution, I just put it here to say that I can do the problem by coding in python.
