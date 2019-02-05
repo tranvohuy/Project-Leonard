@@ -1,9 +1,13 @@
 #problem statement: https://projecteuler.net/problem=229
+#WARNING: Don't read solution until you try the problem.
+#You will lose the joy if you do that.
+
+
+
 
 #nothing to be proud of
 #there should be a mathy way to solve
 #instead of brute-forcing like this
-
 #hk's solution runs in less than 10 secs
 
 import numpy as np
